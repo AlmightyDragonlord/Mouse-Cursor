@@ -11,7 +11,7 @@ In your mouse settings, click the link in the top right that says "Additional mo
 Once you press the link, it should open up a little window that looks like this:
 <img src="https://github.com/AlmightyDragonlord/Mouse-Cursor/blob/main/pictures/cursors6.png" alt="Mouse properties window" style="width:398px;height:455px;">
 After your mouse properties are open, make sure you're in the "Pointers" tab. Then, you want to change your mouse pointer options in the "Customize" box. All you have to do is click the mouse pointer, like "Normal Select" and click browse, then find your folder and choose the corresponding mouse pointer.
-I didn't make a pointer for each option, so here's how I have mine.
+I didn't make a pointer for each option, so here's how I have mine:
 <br>
 <br>
 <table>
