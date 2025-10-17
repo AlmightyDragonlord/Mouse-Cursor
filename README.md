@@ -1,5 +1,5 @@
 IMPORTANT: If you feel unsafe downloading random files online, don't be afraid to scan them for viruses on <a href="https://www.virustotal.com/gui/home/upload">virustotal.com</a>
-<h2>How to install (For Windows 10)</h2>
+<h2>How to install (For Windows)</h2>
 <a href="github.com">Video tutorial (github)</a><br><a href="tiktok.com">Video tutorial (tiktok)</a>
 <h6>Note: If any images are too small, click on them to see them in the full resolution.</h6>
 After <a href="https://github.com/AlmightyDragonlord/Mouse-Cursor/blob/main/K'uhul%20Ajaw%20Cursor.zip">downloading the .zip file for the cursors</a>, unzip it into whatever folder you like.
