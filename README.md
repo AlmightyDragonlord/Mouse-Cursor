@@ -4,7 +4,7 @@ IMPORTANT: If you feel unsafe downloading random files online, don't be afraid t
 <h6>Note: If any images are too small, click on them to see them in the full resolution.</h6>
 After <a href="https://github.com/AlmightyDragonlord/Mouse-Cursor/blob/main/K'uhul%20Ajaw%20Cursor.zip">downloading the .zip file for the cursors</a>, unzip it into whatever folder you like.
 <img src="https://github.com/AlmightyDragonlord/Mouse-Cursor/blob/main/pictures/cursors3.png" alt="Unzip button" style="width:600px;height:90px;">
-Alternative to the next 2 steps: hold the Windows Key and press R and in the window that opens, type "main.cpl" and press enter.
+--Alternative to the next 2 steps: hold the Windows Key and press R and in the window that opens, type "main.cpl" and press enter.--<br>
 After unzipping the files, press the windows button (or key on your keyboard) and search for "mouse settings" and press enter or click open.
 <img src="https://github.com/AlmightyDragonlord/Mouse-Cursor/blob/main/pictures/cursors4.png" alt="Search mouse settings" style="width:600px;height:500px;">
 In your mouse settings, click the link in the top right that says "Additional mouse options"
